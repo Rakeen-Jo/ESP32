@@ -1,0 +1,8 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "files.associations": {
+    "freertos.h": "c",
+    "task.h": "c",
+    "rtc_wdt.h": "c"
+  }
+}

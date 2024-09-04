@@ -1,0 +1,99 @@
+[0;33m--- WARNING: GDB cannot open serial ports accessed as COMx[0m
+[0;33m--- Using \\.\COM3 instead...[0m
+[0;33m--- esp-idf-monitor 1.4.0 on \\.\COM3 115200 ---[0m
+[0;33m--- Quit: Ctrl+] | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H ---[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x4008187a: panic_abort at C:/Users/ATIK/esp/v5.3/esp-idf/components/esp_system/panic.c:463
+0x400855fd: esp_system_abort at C:/Users/ATIK/esp/v5.3/esp-idf/components/esp_system/port/esp_system_chip.c:92
+0x4008637a: vApplicationStackOverflowHook at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:553
+0x4008785f: vTaskSwitchContext at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/tasks.c:3701 (discriminator 7)
+0x40086484: _frxt_dispatch at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/portasm.S:451
+0x40086436: _frxt_int_exit at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/portasm.S:246
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x4008187a: panic_abort at C:/Users/ATIK/esp/v5.3/esp-idf/components/esp_system/panic.c:463
+0x400855fd: esp_system_abort at C:/Users/ATIK/esp/v5.3/esp-idf/components/esp_system/port/esp_system_chip.c:92
+0x4008637a: vApplicationStackOverflowHook at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:553
+0x4008785f: vTaskSwitchContext at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/tasks.c:3701 (discriminator 7)
+0x40086484: _frxt_dispatch at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/portasm.S:451
+0x40086436: _frxt_int_exit at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/portasm.S:246
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x4008187a: panic_abort at C:/Users/ATIK/esp/v5.3/esp-idf/components/esp_system/panic.c:463
+0x400855fd: esp_system_abort at C:/Users/ATIK/esp/v5.3/esp-idf/components/esp_system/port/esp_system_chip.c:92
+0x4008637a: vApplicationStackOverflowHook at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:553
+0x4008785f: vTaskSwitchContext at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/tasks.c:3701 (discriminator 7)
+0x40086484: _frxt_dispatch at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/portasm.S:451
+0x40086436: _frxt_int_exit at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/portasm.S:246
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x4008187a: panic_abort at C:/Users/ATIK/esp/v5.3/esp-idf/components/esp_system/panic.c:463
+0x400855fd: esp_system_abort at C:/Users/ATIK/esp/v5.3/esp-idf/components/esp_system/port/esp_system_chip.c:92
+0x4008637a: vApplicationStackOverflowHook at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:553
+0x4008785f: vTaskSwitchContext at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/tasks.c:3701 (discriminator 7)
+0x40086484: _frxt_dispatch at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/portasm.S:451
+0x40086436: _frxt_int_exit at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/portasm.S:246
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x4008187a: panic_abort at C:/Users/ATIK/esp/v5.3/esp-idf/components/esp_system/panic.c:463
+0x400855fd: esp_system_abort at C:/Users/ATIK/esp/v5.3/esp-idf/components/esp_system/port/esp_system_chip.c:92
+0x4008637a: vApplicationStackOverflowHook at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:553
+0x4008785f: vTaskSwitchContext at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/tasks.c:3701 (discriminator 7)
+0x40086484: _frxt_dispatch at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/portasm.S:451
+0x40086436: _frxt_int_exit at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/portasm.S:246
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x4008187a: panic_abort at C:/Users/ATIK/esp/v5.3/esp-idf/components/esp_system/panic.c:463
+0x400855fd: esp_system_abort at C:/Users/ATIK/esp/v5.3/esp-idf/components/esp_system/port/esp_system_chip.c:92
+0x4008637a: vApplicationStackOverflowHook at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:553
+[0m
+[0;33m0x40086484: _frxt_dispatch at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/portasm.S:451
+[0m
+[0;33m0x40086436: _frxt_int_exit at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/portasm.S:246
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x4008187a: panic_abort at C:/Users/ATIK/esp/v5.3/esp-idf/components/esp_system/panic.c:463
+0x400855fd: esp_system_abort at C:/Users/ATIK/esp/v5.3/esp-idf/components/esp_system/port/esp_system_chip.c:92
+0x4008637a: vApplicationStackOverflowHook at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:553
+0x4008785f: vTaskSwitchContext at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/tasks.c:3701 (discriminator 7)
+0x40086484: _frxt_dispatch at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/portasm.S:451
+0x40086436: _frxt_int_exit at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/portasm.S:246
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x4008187a: panic_abort at C:/Users/ATIK/esp/v5.3/esp-idf/components/esp_system/panic.c:463
+0x400855fd: esp_system_abort at C:/Users/ATIK/esp/v5.3/esp-idf/components/esp_system/port/esp_system_chip.c:92
+0x4008637a: vApplicationStackOverflowHook at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:553
+0x4008785f: vTaskSwitchContext at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/tasks.c:3701 (discriminator 7)
+0x40086484: _frxt_dispatch at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/portasm.S:451
+0x40086436: _frxt_int_exit at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/portasm.S:246
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x4008187a: panic_abort at C:/Users/ATIK/esp/v5.3/esp-idf/components/esp_system/panic.c:463
+0x400855fd: esp_system_abort at C:/Users/ATIK/esp/v5.3/esp-idf/components/esp_system/port/esp_system_chip.c:92
+0x4008637a: vApplicationStackOverflowHook at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:553
+0x4008785f: vTaskSwitchContext at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/tasks.c:3701 (discriminator 7)
+0x40086484: _frxt_dispatch at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/portasm.S:451
+0x40086436: _frxt_int_exit at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/portasm.S:246
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x4008187a: panic_abort at C:/Users/ATIK/esp/v5.3/esp-idf/components/esp_system/panic.c:463
+0x400855fd: esp_system_abort at C:/Users/ATIK/esp/v5.3/esp-idf/components/esp_system/port/esp_system_chip.c:92
+0x4008637a: vApplicationStackOverflowHook at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:553
+0x4008785f: vTaskSwitchContext at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/tasks.c:3701 (discriminator 7)
+0x40086484: _frxt_dispatch at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/portasm.S:451
+0x40086436: _frxt_int_exit at C:/Users/ATIK/esp/v5.3/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/portasm.S:246
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x4008187a: panic_abort at C:/Users/ATIK/esp/v5.3/esp-idf/components/esp_system/panic.c:463
+0x400855fd: esp_system_abort at C:/Users/ATIK/esp/v5.3/es
